@@ -10,7 +10,7 @@ function Home() {
       <section className="hero">
         <span className="badge">MBCET · 14–16 October 2026</span>
         <h1>TechFest 2026</h1>
-        <p>Workshops, hackathons and talks, all in one place. Register to take part.</p>
+        <p>Workshops, hackathons, talks and prize events, all in one place. Register to take part.</p>
         <div className="actions">
           <Link to="/register" className="btn">Register now</Link>
           <Link to="/gallery" className="btn ghost">View gallery</Link>
